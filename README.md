@@ -1,6 +1,6 @@
 # 💫About Me :
 🔭i'm currently working on mobile development with Dart & Flutter
-🌱I'm currently learning SailsJS Framework
+🌱I'm currently learning gRPC in Dart
 ✨Fun fact: I wish i was dead tomorrow
 
 ## 🌐Socials
