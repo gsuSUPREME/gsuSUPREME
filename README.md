@@ -1,6 +1,6 @@
 # 💫About Me :
-🔭i'm currently working on mobile development with Dart & Flutter
-🌱I'm currently learning gRPC in Dart
+🔭Working on mobile development with React Native & Typescript!
+🌱Currently learning Golang!
 ✨Fun fact: I wish i was dead tomorrow
 
 ## 🌐Socials
